@@ -1,0 +1,2 @@
+E:/machine filter=lfs diff=lfs merge=lfs -text
+learning/practice/tensorflow/horse-or-human.zip filter=lfs diff=lfs merge=lfs -text
